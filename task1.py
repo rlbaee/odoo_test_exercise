@@ -41,7 +41,7 @@ def parse(search_domain, index, table):
             return f"({operation1} OR {operation2})", next_index
 
 
-def domain_to_sql(search_domain, table): # Lisab SQLile SELECT * FROM lause ette
+def domain_to_sql(search_domain, table): # Lisab SQLile SELECT * FROM clause(sõnad) ette
     where_clause, _ = parse(search_domain, 0, table)
     return f"SELECT * FROM {table} WHERE {where_clause};"
 
