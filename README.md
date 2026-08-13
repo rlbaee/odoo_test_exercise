@@ -13,13 +13,13 @@ This one was hard for me. Particularly because I've never developed anything for
 ### Answers to bonus questions
 
 - Given the custom nature of this request, why do you think a development such as this should or should not be recommended to the customer?
-  Should - It does solve the problem of less clicks pretty elegantly (a new tab). Shouldn't - Alot of info about every user in each row, can get messy.
+  > Should - It does solve the problem of less clicks pretty elegantly (a new tab). Shouldn't - Alot of info about every user in each row, can get messy.
 
 - Are there better alternatives to this which would solve the underlying problem, but not in the exact way the customer wishes?
-  Use tags "needs lead" on people maybe? It would need automating though, probably.
+  > Use tags "needs lead" on people maybe? It would need automating though, probably.
 
 - Would it take less time or more time to develop the alternative and how would the extra investment in time/money/resources be more beneficial to the customer?
-  I think it would take less time and money, but it's just a personal preference whether the customer wants it.
+  > I think it would take less time and money, but it's just a personal preference whether the customer wants it.
 
 - What are the various pitfalls of such a development that should be taken into account and communicated to the customer before continuing with this specific development? In more simpler terms: why do you think this solution to the customer's problem is good or bad?
-  Customer wants more functions than that were in the scope first, custom tabs need to be updated when odoo updates(i think), so it's not just one work. And more duplicate info about leads.
+  > Customer wants more functions than that were in the scope first, custom tabs need to be updated when odoo updates(i think), so it's not just one work. And more duplicate info about leads.
